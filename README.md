@@ -4,7 +4,7 @@
 A minimal, responsive and dynamic Student Dashboard project made up using HTML, CSS & JavaScript.
 
 
-## Demo
+## Webpage link
 
 https://student-dashboard019.netlify.app/
 
